@@ -2,7 +2,6 @@ library(ggplot2)
 library(tidyverse)
 library(plyr)
 
-setwd("~/Desktop/aou_phenotyping/example_analysis")
 source("power_functions.R")
 
 ### Set analysis-specific parameters ###########################################

@@ -4,8 +4,6 @@ library(tidyverse)
 ### Description: this notebook produces power curves equivalent to manuscript
 ###   Figures 3,4 from the output of `1_calculate_power.R`
 
-setwd("~/aou_phenotyping/example_analysis/")
-
 df_power <- read_csv("power_output.csv")
 
 # Set names for case_status sets:
