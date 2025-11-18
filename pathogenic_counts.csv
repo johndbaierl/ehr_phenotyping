@@ -1,0 +1,5 @@
+﻿case_status,n_pathogenic,n,gene_symbol
+HS,76,800,BRCA1_2
+LS_1,20,500,BRCA1_2
+LS_2,23,350,BRCA1_2
+control,500,95000,BRCA1_2
